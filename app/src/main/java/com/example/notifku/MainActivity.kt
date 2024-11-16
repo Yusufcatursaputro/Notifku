@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
                     .setSmallIcon(R.drawable.fluent)
                     .setLargeIcon(bitmap)
                     .setContentTitle("Notifku")
-                    .setContentText("Govannnnnnnnnnn gamtenk")
+                    .setContentText("Bang Hanip")
                     .setStyle(
                         NotificationCompat.BigPictureStyle()
                             .bigPicture(notifImage)

@@ -25,6 +25,16 @@
         android:padding="10dp"
         android:text="Update notifikasi"/>
 
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bang Hanip memberi like dan dislike"
+        app:layout_constraintTop_toBottomOf="@id/btn_update"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="30dp"/>
+
     <ImageView
         android:id="@+id/img_like"
         android:layout_width="200dp"
